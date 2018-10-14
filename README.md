@@ -45,7 +45,8 @@
 #### PC的心脏，带动各硬件工作
 #### [详细介绍](https://www.bilibili.com/video/av29410982) ![th.jpg](https://i.loli.net/2018/10/14/5bc31da1d6b83.jpg)
 
-#### 合体图 ![g](https://i.loli.net/2018/10/14/5bc3388a5d588.jpg)
+#### 合体图
+![g](https://i.loli.net/2018/10/14/5bc3388a5d588.jpg)
 
 
 ###  [组装流程](http://tieba.baidu.com/p/2320809197)
@@ -59,10 +60,11 @@
 
 
 #### 鼠标 键盘——让你能操控PC
-##### [详细介绍]()
+##### 凭个人喜好，一分钱一分货
 
 #### 机箱——给主机（上文6大件）加个保护套
-##### [详细介绍]()
+##### 凭个人喜好，一分钱一分货
+
 
 #### 散热器——让你的CPU 显卡不会燃烧
 ##### [详细介绍](https://www.bilibili.com/video/av30019967) ![T1.jpg](https://i.loli.net/2018/10/14/5bc31ebb69a86.jpg)
