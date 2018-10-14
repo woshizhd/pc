@@ -33,7 +33,8 @@
 
 ### 4. 硬盘
 #### PC的内容仓库，储存系统 软件 文档等资料
-#### ![th.jpg](https://i.loli.net/2018/10/14/5bc31caa257f6.jpg)
+#### ![ceZ563TIfEKcw.jpg](https://i.loli.net/2018/10/14/5bc34378f0523.jpg)
+
 #### SSD（固态硬盘）[详细介绍](https://www.bilibili.com/video/av31584748)
 #### 机械硬盘
 
