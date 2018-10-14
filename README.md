@@ -50,8 +50,8 @@
 ![g](https://i.loli.net/2018/10/14/5bc3388a5d588.jpg)
 
 
-###  [组装流程](http://tieba.baidu.com/p/2320809197)
-### [装机走向与推荐](http://tieba.baidu.com/f?kw=%E7%94%B5%E8%84%91&ie=utf-8)
+##  [组装流程](http://tieba.baidu.com/p/2320809197)
+## [电脑吧置顶：装机走向与推荐](http://tieba.baidu.com/f?kw=%E7%94%B5%E8%84%91&ie=utf-8)
 
 
 
