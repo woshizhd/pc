@@ -8,9 +8,13 @@
 ## 一 软件系统 参见不才的 [software](https://github.com/woshizhd/software)
 ## 二 硬件部分
 ###（建议详细观看上文-百度百科“电脑定义”后，再食用下文。不然到这儿也是晕乎乎……）
+### ![台式机长这个样子](https://i.loli.net/2018/10/14/5bc31a4196fa7.jpg)
+### ![笔记本长这个样子](https://i.loli.net/2018/10/14/5bc31ab6ca5d6.jpg)
+
 
 ### 1. 主板 
 #### PC的神经系统，硬件们都搭建在主板上，得以协作运行
+#### [详细介绍]() ![一览图](https://i.loli.net/2018/10/14/5bc319bb4ebdc.jpg)
 
 ### 2. CPU 
 #### PC的大脑
