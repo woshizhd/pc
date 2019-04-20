@@ -74,6 +74,8 @@
 #### 无线网卡 [科普](https://post.smzdm.com/p/452690/)
 
 #### 路由器 [推荐](https://zhuanlan.zhihu.com/p/41602094)
+#### 不满足下的软路由（放两个论坛吧） [恩山](https://www.right.com.cn/forum/forum.php)  [koolshare](http://koolshare.cn/forum.php)
+
 
 
 ***
