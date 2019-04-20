@@ -8,6 +8,7 @@
 ## 一 软件系统 参见不才的 [software](https://github.com/woshizhd/software)
 ## 二 硬件部分
 ###（建议详细观看上文-百度百科“电脑定义”后，再食用下文。不然到这儿也是晕乎乎……）
+### [插入一个小故事，任君采撷](https://la4ji.blogspot.com/2019/04/cpu.html)
 #### 台式机长这个样子 ![台式机长这个样子](https://i.loli.net/2018/10/14/5bc31a4196fa7.jpg)
 
 #### 笔记本长这个样子 ![笔记本长这个样子](https://i.loli.net/2018/10/14/5bc31ab6ca5d6.jpg)
