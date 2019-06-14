@@ -8,7 +8,7 @@
 ## 一 软件系统 参见不才的 [software](https://github.com/woshizhd/software)
 ## 二 硬件部分
 ###（建议详细观看上文-百度百科“电脑定义”后，再食用下文。不然到这儿也是晕乎乎……）
-### [插入一个小故事，任君采撷](https://la4ji.blogspot.com/2019/04/cpu.html)
+### [插入一个小故事，任君采撷](http://t.cn/AiNvN099)
 #### 台式机长这个样子 ![台式机长这个样子](https://i.loli.net/2018/10/14/5bc31a4196fa7.jpg)
 
 #### 笔记本长这个样子 ![笔记本长这个样子](https://i.loli.net/2018/10/14/5bc31ab6ca5d6.jpg)
@@ -25,7 +25,7 @@
 
 ### 2. CPU 
 #### PC的大脑
-#### [简单介绍](https://www.evernote.com/shard/s450/u/0/client/snv?noteGuid=59fae625-488a-4ead-8d34-f52e72a934b1&noteKey=cd2d44e4fdf93db5bb410ec2276294aa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs450%2Fsh%2F59fae625-488a-4ead-8d34-f52e72a934b1%2Fcd2d44e4fdf93db5bb410ec2276294aa&title=%25E8%2580%2581%25E5%258F%25B8%25E6%259C%25BA%25E4%25BC%258A%25E7%2594%25B8%25E5%259B%25AD)  [视频介绍](https://www.bilibili.com/video/av28848071) ![001.jpg](https://i.loli.net/2018/10/14/5bc31bd5b3aae.jpg)
+#### [视频介绍](https://www.bilibili.com/video/av28848071) ![001.jpg](https://i.loli.net/2018/10/14/5bc31bd5b3aae.jpg)
 
 ### 3. 显卡 
 #### PC信号的可视化转换，通过传输线得以在电脑屏幕上显示
