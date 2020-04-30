@@ -73,14 +73,15 @@
 
 #### 无线网卡 [科普](https://post.smzdm.com/p/452690/)
 
-#### 路由器 [推荐](https://zhuanlan.zhihu.com/p/41602094)
+#### 路由器 [专业博客推荐](https://www.acwifi.net/)
 #### 不满足下的软路由（放两个论坛吧） [恩山](https://www.right.com.cn/forum/forum.php)  [koolshare](http://koolshare.cn/forum.php)
 
 
 
 ***
 ## 笔记本电脑
-### [笔记本科普和选购](https://zhuanlan.zhihu.com/p/40181275)
+### [笔记本电脑验机指南](https://zhuanlan.zhihu.com/p/40181275)
+### [笔记本选购](https://zhuanlan.zhihu.com/c_1108694004635623424)————观看作者“夏蒙乾”的月度选购指南
 
 
 
