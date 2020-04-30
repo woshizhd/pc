@@ -29,7 +29,7 @@
 
 ### 3. 显卡 
 #### PC信号的可视化转换，通过传输线得以在电脑屏幕上显示
-#### [详细介绍](http://tieba.baidu.com/p/3034371866) ![2012040504525326.jpg](https://i.loli.net/2018/10/14/5bc31c46c9837.jpg)
+#### [详细介绍](https://www.bilibili.com/video/BV1Ct411Z7nL?from=search&seid=11641372890332030005) ![2012040504525326.jpg](https://i.loli.net/2018/10/14/5bc31c46c9837.jpg)
 
 
 ### 4. 硬盘
@@ -52,7 +52,7 @@
 
 
 ##  [组装流程](http://tieba.baidu.com/p/2320809197)
-## [电脑吧置顶：装机走向与推荐](http://tieba.baidu.com/f?kw=%E7%94%B5%E8%84%91&ie=utf-8)
+## [电脑吧置顶：装机走向与推荐](http://tieba.baidu.com/f?kw=%E7%94%B5%E8%84%91&ie=utf-8)————找不到可以关注“电脑吧评测室”的微信公众号
 
 
 
